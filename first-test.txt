@@ -1,2 +1,3 @@
 My test for my first commit
 and i changed this file 
+Thirdly I do a test
