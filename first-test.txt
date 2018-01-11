@@ -3,3 +3,5 @@ and i changed this file
 Thirdly I do a test
 
 Then I push
+
+I ready to commit after the error
