@@ -5,3 +5,5 @@ Thirdly I do a test
 Then I push
 
 I ready to commit after the error
+
+I created a branch, and checkout this
