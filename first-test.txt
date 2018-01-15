@@ -6,8 +6,14 @@ Then I push
 
 I ready to commit after the error
 
+
 before this play,i created a branch and I do something 
 
 Now I checkout master
 
 Qq
+
+I created a branch, and checkout this
+
+I checkout study branch again, commit something
+
