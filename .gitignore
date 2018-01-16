@@ -15,12 +15,8 @@ out/
 
 # Gradle files
 .gradle/
+.idea/
 /build/
-test.txt
-<<<<<<< HEAD
-DashMediaSource.java
-=======
->>>>>>> 50de7f0dc52c37a65db974c1d478d01d2a4213e7
 
 # Local configuration file (sdk path, etc)
 local.properties
