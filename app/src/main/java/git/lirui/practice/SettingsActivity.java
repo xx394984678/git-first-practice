@@ -211,13 +211,6 @@ public class SettingsActivity extends AppCompatPreferenceActivity {
             setHasOptionsMenu(true);
 
 
-
-
-
-
-
-
-
             
             
             // Bind the summaries of EditText/List/Dialog/Ringtone preferences
