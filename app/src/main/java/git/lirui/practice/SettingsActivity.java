@@ -165,7 +165,6 @@ public class SettingsActivity extends AppCompatPreferenceActivity {
                 || NotificationPreferenceFragment.class.getName().equals(fragmentName);
     }
 
-    //???
     /**
      * This fragment shows general preferences only. It is used when the
      * activity is showing a two-pane settings UI.
