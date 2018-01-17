@@ -23,6 +23,8 @@ import java.util.List;
 //创建saber
 //second saber
 //kongge
+
+//kongge  again
 /**
  * A {@link PreferenceActivity} that presents a set of application settings. On
  * handset devices, settings are presented as a single list. On tablets,
