@@ -215,6 +215,9 @@ public class SettingsActivity extends AppCompatPreferenceActivity {
 
 
 
+
+
+
             
             
             // Bind the summaries of EditText/List/Dialog/Ringtone preferences
