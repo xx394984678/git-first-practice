@@ -5,5 +5,5 @@ package git.lirui.practice.api;
  */
 
 public class ApiConstant {
-    public static final String SIGN = "DEVELOP";
+    public static final String SIGN = "BETA";
 }
