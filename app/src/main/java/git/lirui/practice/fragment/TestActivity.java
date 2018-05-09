@@ -21,6 +21,6 @@ public class TestActivity extends AppCompatActivity {
         setContentView(R.layout.test_layout);
         textView = findViewById(R.id.sign);
 
-        textView.setText(ApiConstant.SIGN);
+        textView.setText(ApiConstant.SIGN + String.valueOf(ApiConstant.CHECKOUT_ON_LINE_URL));
     }
 }
