@@ -6,4 +6,5 @@ package git.lirui.practice.api;
 
 public class ApiConstant {
     public static final String SIGN = "BETA";
+    public static final boolean CHECKOUT_ON_LINE_URL = false;
 }
