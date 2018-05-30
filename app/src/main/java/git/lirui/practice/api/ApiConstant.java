@@ -7,4 +7,5 @@ package git.lirui.practice.api;
 public class ApiConstant {
     public static final String SIGN = "ON_LINE";
     public static final boolean CHECKOUT_ON_LINE_URL = false;
+    ////sdsdsd///sd/s/ds/d/
 }
